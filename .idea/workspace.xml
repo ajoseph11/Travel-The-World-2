@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7e98558-67ab-48b3-a91c-32f25a42cb58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/others/Dater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Project2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RegistrationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TuitionCalculatorTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Project2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Project2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RegistrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TuitionCalculatorTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Project2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="367" column="14" selection-start-line="367" selection-start-column="14" selection-end-line="367" selection-end-column="14" />
+            <state relative-caret-position="-2071">
+              <caret line="422" column="12" selection-start-line="422" selection-start-column="12" selection-end-line="422" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,9 +68,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="878" />
-    <option name="width" value="1052" />
-    <option name="height" value="1080" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -113,14 +107,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554921783664" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554924708647" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -145,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Project2.atlCancunB">
+  <component name="RunManager" selected="JUnit.Project2.atlCancun">
     <configuration name="Dater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dater" />
       <module name="HelloSelenium" />
@@ -195,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Project2.atlCancun" />
         <item itemvalue="JUnit.Project2.atlCancunB" />
         <item itemvalue="JUnit.Project2.defaultTest" />
         <item itemvalue="JUnit.Project2.atlSingapore" />
         <item itemvalue="Application.Dater" />
-        <item itemvalue="JUnit.Project2.atlCancun" />
       </list>
     </recent_temporary>
   </component>
@@ -217,26 +211,12 @@
       <workItem from="1554567167645" duration="588000" />
       <workItem from="1554602573730" duration="751000" />
       <workItem from="1554739753570" duration="45608000" />
-      <workItem from="1554914540935" duration="6897000" />
+      <workItem from="1554914540935" duration="9478000" />
+      <workItem from="1554924842579" duration="1215000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Project2_atlCancunB - 2019.04.10 at 13h 36m 45s.xml">
-      <configuration name="Project2.atlCancunB" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Project2_atlCancunB - 2019.04.10 at 13h 49m 28s.xml">
-      <configuration name="Project2.atlCancunB" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Project2_atlCancunB - 2019.04.10 at 13h 51m 11s.xml">
-      <configuration name="Project2.atlCancunB" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Project2_atlCancunB - 2019.04.10 at 14h 07m 43s.xml">
-      <configuration name="Project2.atlCancunB" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Project2_atlCancunB - 2019.04.10 at 14h 10m 42s.xml">
-      <configuration name="Project2.atlCancunB" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Project2_atlCancunB - 2019.04.10 at 14h 14m 11s.xml">
       <configuration name="Project2.atlCancunB" configurationId="JUnit" />
     </history-entry>
@@ -252,9 +232,24 @@
     <history-entry file="Project2_atlCancunB - 2019.04.10 at 14h 39m 23s.xml">
       <configuration name="Project2.atlCancunB" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Project2_atlCancunB - 2019.04.10 at 14h 41m 44s.xml">
+      <configuration name="Project2.atlCancunB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Project2_atlCancunB - 2019.04.10 at 14h 52m 57s.xml">
+      <configuration name="Project2.atlCancunB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Project2_atlCancun - 2019.04.10 at 15h 27m 06s.xml">
+      <configuration name="Project2.atlCancun" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Project2_atlCancun - 2019.04.10 at 15h 31m 44s.xml">
+      <configuration name="Project2.atlCancun" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Project2_atlCancun - 2019.04.10 at 15h 54m 24s.xml">
+      <configuration name="Project2.atlCancun" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56381000" />
+    <option name="totallyTimeSpent" value="60177000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,10 +261,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="977" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1087" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2082879" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21334793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -278,7 +272,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8495093" visible="true" weight="0.26623377" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8632385" visible="true" weight="0.3888292" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,15 +280,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32975295" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32975295" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.15049073" side_tool="true" visible="true" weight="0.26623377" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.5125409" weight="0.3809524" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49798387" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.13676149" side_tool="true" visible="true" weight="0.3888292" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.50959486" weight="0.38085106" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" sideWeight="0.4989059" weight="0.32975295" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32932165" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.24507658" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -310,8 +304,8 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TuitionCalculatorTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Project2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="367" column="14" selection-start-line="367" selection-start-column="14" selection-end-line="367" selection-end-column="14" />
+        <state relative-caret-position="-2071">
+          <caret line="422" column="12" selection-start-line="422" selection-start-column="12" selection-end-line="422" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
